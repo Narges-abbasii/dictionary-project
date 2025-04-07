@@ -1,14 +1,16 @@
-.App-header {
-  margin: 30px 0;
-}
-
-.App-logo {
-  max-width: 200px;
-  display: block;
+.App {
+  background: #9ec6f3;
+  padding: 60px 0 100px;
+  max-width: 960px;
   margin: 0 auto;
 }
 
-.App-footer {
+.App footer {
   text-align: center;
-  margin: 30px 0;
+  margin-top: 20px;
+  font-size: 16px;
+}
+
+.App a {
+  color: white;
 }
